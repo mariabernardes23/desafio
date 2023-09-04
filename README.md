@@ -11,7 +11,7 @@ Desafio do Frontend Mentor: Durante o desafio de criar um componente de cartão 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ## 🔗 Link de demonstração
-<a href="https://mariabernardes23.github.io/desafio/">PetShop Mundo Animal</a>
+<a href="https://mariabernardes23.github.io/desafio/">Card</a>
 
 ## 🎨 Documentação de cores
 
